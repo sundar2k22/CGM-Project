@@ -1,0 +1,5 @@
+# Ignore the app.dSYM folder
+app.dSYM/
+
+# Ignore the app executable file
+app
